@@ -1488,19 +1488,27 @@ const Data = {
 		top_bar: [
 			{
 				num: 1,
-				text: "Introduction",
+				text: "Setup",
 			},
 			{
 				num: 2,
-				text: "Education",
+				text: "Question 1",
 			},
 			{
 				num: 3,
-				text: "Background",
+				text: "Question 2",
 			},
 			{
 				num: 4,
-				text: "Upload",
+				text: "Question 3",
+			},
+			{
+				num: 5,
+				text: "Question 4",
+			},
+			{
+				num: 6,
+				text: "Upload/Finish",
 			},
 		],
 		video: "/videos/Office - 69952.mp4",

@@ -1290,7 +1290,7 @@ form#srch_bar {
 		margin: 0 auto 4rem;
 	}
 	& + #folio {
-		padding-top: 4rem;
+		padding-top: 0;
 	}
 }
 
@@ -1938,7 +1938,7 @@ form#srch_bar {
 			position: relative;
 			color: rgba($black, 0.4);
 			&:not(:nth-last-child(1)) {
-				padding-right: 10rem;
+				padding-right: 6rem;
 				@include mobile_md {
 					padding-right: 4rem;
 				}
@@ -2079,7 +2079,7 @@ form#srch_bar {
 	.top_blk {
 		background: $black;
 		padding: 10rem 0;
-		margin-bottom: 6rem;
+		margin-bottom: 8rem;
 		form {
 			max-width: 70rem;
 			margin: 0 auto;
@@ -3016,6 +3016,41 @@ form#srch_bar {
 		}
 		.highcharts-credits {
 			display: none !important;
+		}
+	}
+}
+
+#banner {
+	& + #brands {
+		margin: 4rem 0;
+		& ~ #journey {
+			margin: 4rem 0;
+			& ~ #sponsor {
+				margin: 4rem 0;
+			}
+		}
+	}
+}
+
+#work {
+	& + #vision {
+		margin: 4rem 0;
+		& ~ #contact {
+			padding: 4rem;
+		}
+	}
+}
+
+#about {
+	& + #vision {
+		margin-top: 4rem;
+		& ~ #faq_about {
+			background: rgba($color, 0.05);
+			margin: 4rem 0;
+			padding: 8rem 0 !important;
+			.faq_blk {
+				background: $light;
+			}
 		}
 	}
 }

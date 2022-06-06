@@ -160,22 +160,22 @@ const Data = {
 				{
 					id: 1,
 					qst: "Career path Finder",
-					ans: "Back in 2016, our founders Tripti Maheshwari and Dhruv  experienced the challenges of landing opportunities in a foreign land as international  visitor students. They realised fairly soon that the process isn’t easy for anyone involved, so they started Student Circus, a niche job search platform, with the vision to make the hiring of international students a seamless process for all stakeholders — universities, students, as well as employers. Since then, we can Student Circus has bloomed the a from being a job listings platform to a all career needs of international students.  Since then, we can Student Circus has bloomed from being a  career needs of international students job listings platform to a all career needs of international students.",
+					ans: "Back in 2016, our founders Tripti Maheshwari and Dhruv  experienced the challenges of landing opportunities in a foreign land as international  visitor students.",
 				},
 				{
 					id: 2,
-					qst: "What kind of service we offer to you?",
-					ans: "Back in 2016, our founders Tripti Maheshwari and Dhruv  experienced the challenges of landing opportunities in a foreign land as international  visitor students. They realised fairly soon that the process isn’t easy for anyone involved, so they started Student Circus, a niche job search platform, with the vision to make the hiring of international students a seamless process for all stakeholders — universities, students, as well as employers. Since then, we can Student Circus has bloomed the a from being a job listings platform to a all career needs of international students.  Since then, we can Student Circus has bloomed from being a  career needs of international students job listings platform to a all career needs of international students.",
+					qst: "CV Builder",
+					ans: "Back in 2016, our founders Tripti Maheshwari and Dhruv  experienced the challenges of landing opportunities in a foreign land as international  visitor students.",
 				},
 				{
 					id: 3,
-					qst: "We're helping everyone build better sites?",
-					ans: "Back in 2016, our founders Tripti Maheshwari and Dhruv  experienced the challenges of landing opportunities in a foreign land as international  visitor students. They realised fairly soon that the process isn’t easy for anyone involved, so they started Student Circus, a niche job search platform, with the vision to make the hiring of international students a seamless process for all stakeholders — universities, students, as well as employers. Since then, we can Student Circus has bloomed the a from being a job listings platform to a all career needs of international students.  Since then, we can Student Circus has bloomed from being a  career needs of international students job listings platform to a all career needs of international students.",
+					qst: "Digital Interview Practice",
+					ans: "Back in 2016, our founders Tripti Maheshwari and Dhruv  experienced the challenges of landing opportunities in a foreign land as international  visitor students.",
 				},
 				{
 					id: 4,
-					qst: "Our team of expert visa jobs and interview marketers?",
-					ans: "Back in 2016, our founders Tripti Maheshwari and Dhruv  experienced the challenges of landing opportunities in a foreign land as international  visitor students. They realised fairly soon that the process isn’t easy for anyone involved, so they started Student Circus, a niche job search platform, with the vision to make the hiring of international students a seamless process for all stakeholders — universities, students, as well as employers. Since then, we can Student Circus has bloomed the a from being a job listings platform to a all career needs of international students.  Since then, we can Student Circus has bloomed from being a  career needs of international students job listings platform to a all career needs of international students.",
+					qst: "Application Tracker",
+					ans: "Back in 2016, our founders Tripti Maheshwari and Dhruv  experienced the challenges of landing opportunities in a foreign land as international  visitor students.",
 				},
 			],
 			slider: [

@@ -3023,8 +3023,42 @@ form#srch_bar {
 #banner {
 	& + #brands {
 		margin: 4rem 0;
+		& ~ #steps {
+			.content {
+				margin-bottom: 8rem;
+			}
+		}
 		& ~ #journey {
 			margin: 4rem 0;
+			.content {
+				max-width: none;
+			}
+			.faq_blk {
+				&.active {
+					h5 {
+						&:after {
+							-webkit-clip-path: polygon(0 44%, 0 56%, 100% 56%, 100% 44%);
+							clip-path: polygon(0 44%, 0 56%, 100% 56%, 100% 44%);
+						}
+					}
+				}
+				h5 {
+					font-size: 2.2rem;
+					&:after {
+						content: "";
+						position: absolute;
+						top: 0.2rem;
+						right: 0;
+						width: 2rem;
+						height: 2rem;
+						background: $color;
+						-webkit-clip-path: polygon(0 44%, 0 56%, 44% 56%, 44% 100%, 56% 100%, 56% 56%, 100% 56%, 100% 44%, 56% 44%, 56% 0, 44% 0, 44% 44%);
+						clip-path: polygon(0 44%, 0 56%, 44% 56%, 44% 100%, 56% 100%, 56% 56%, 100% 56%, 100% 44%, 56% 44%, 56% 0, 44% 0, 44% 44%);
+						-webkit-transition: all ease 0.5s;
+						transition: all ease 0.5s;
+					}
+				}
+			}
 			& ~ #sponsor {
 				margin: 4rem 0;
 			}
